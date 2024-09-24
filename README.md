@@ -12,8 +12,8 @@ Dataset yang digunakan adalah movie_dataset.csv, berisi informasi tentang film s
 
 Langkah-Langkah Preprocessing
 -
--Memuat Data
--Memeriksa Data
--Membersihkan Data
--Transformasi Data
--Penyimpanan Data
+- Memuat Data
+- Memeriksa Data
+- Membersihkan Data
+- Transformasi Data
+- Penyimpanan Data
